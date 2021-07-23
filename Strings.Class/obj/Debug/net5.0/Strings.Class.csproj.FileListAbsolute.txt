@@ -1,0 +1,12 @@
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\bin\Debug\net5.0\Strings.Class.deps.json
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\bin\Debug\net5.0\Strings.Class.dll
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\bin\Debug\net5.0\ref\Strings.Class.dll
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\bin\Debug\net5.0\Strings.Class.pdb
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.csprojAssemblyReference.cache
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.AssemblyInfoInputs.cache
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.AssemblyInfo.cs
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.csproj.CoreCompileInputs.cache
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.dll
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\ref\Strings.Class.dll
+C:\Users\haribalakrishnan\Downloads\Strings\Strings.Class\obj\Debug\net5.0\Strings.Class.pdb
